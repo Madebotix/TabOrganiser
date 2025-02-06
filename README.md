@@ -1,6 +1,6 @@
-# Tab Organiser
+# TabOrganiser
 
-**Tab Organiser** is a lightweight browser extension designed to simplify and automate tab management in Microsoft Edge and Chrome. It ensures a clean, efficient browsing experience by organizing tabs and groups intelligently.
+**TabOrganiser** is a lightweight browser extension designed to simplify and automate tab management in Chromium-based browsers. It ensures a clean, efficient browsing experience by organizing tabs and groups intelligently.
 
 ---
 
@@ -12,11 +12,11 @@
   - Ensures only the "New Tab" is moved, leaving all other tabs intact.
 
 - **Enhanced Group Management**
-  - Adds a `|` prefix to group names for consistency.
+  - Automatically adds a `|` prefix to tab group names for consistency.
   - Assigns a uniform color to all tab groups for better visual organization.
 
 - **Seamless Integration**
-  - Fully compatible with Microsoft Edge's tab grouping functionality.
+  - Fully compatible with browser's tab grouping functionality.
   - Works automatically in the background with minimal performance impact.
 
 ---
@@ -49,16 +49,6 @@ The extension requires the following permissions:
 - **Tabs:** To query, create, and move tabs.
 - **Tab Groups:** To query and modify tab groups.
 
----
-
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/your-feature-name`.
-3. Commit your changes: `git commit -m "Add your feature"`.
-4. Push to the branch: `git push origin feature/your-feature-name`.
-5. Submit a pull request.
 
 ---
 
@@ -75,9 +65,3 @@ _Description of the popup interface with "Check Tabs" button._
 
 ![Organized Tab Groups](https://via.placeholder.com/800x400?text=Screenshot+Placeholder)  
 _Showing grouped tabs with consistent color and `|` prefix._
-
----
-
-## Support
-
-If you encounter any issues or have questions, feel free to open an issue in the repository or contact the project maintainer.

@@ -63,5 +63,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ![Tab Organiser Popup](https://via.placeholder.com/800x400?text=Screenshot+Placeholder)  
 _Description of the popup interface with "Check Tabs" button._  
 
-![Organized Tab Groups](https://via.placeholder.com/800x400?text=Screenshot+Placeholder)  
+![Organized Tab Groups](https://github.com/user-attachments/assets/42048954-8217-4ed9-8e4e-a4040c9ec014)
+ 
 _Showing grouped tabs with consistent color and `|` prefix._
